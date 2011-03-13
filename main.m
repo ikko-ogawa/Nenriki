@@ -1,10 +1,4 @@
-//
-//  main.m
-//  Frist
-//
-//  Created by IKKO OGAWA on 10/10/10.
-//  Copyright STUDIO OGAWA 2010. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 
